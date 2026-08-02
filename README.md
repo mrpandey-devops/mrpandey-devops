@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Madhup Ranjan Pandey
 
-<!--
-**mrpandey-devops/mrpandey-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevSecOps Engineer | Azure | Terraform | Kubernetes | Docker | Linux
 
-Here are some ideas to get you started:
+I'm a DevSecOps Engineer passionate about building secure, scalable, and automated cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- ☁ Microsoft Azure
+- 🌍 Terraform
+- 🐳 Docker
+- ☸ Kubernetes
+- 🐧 Linux
+- 🔧 Git & GitHub
+- ⚙ GitHub Actions
+- 🚀 CI/CD
+- 📜 Bash
+- 💻 PowerShell
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Terraform
+- Kubernetes
+- GitOps
+- Azure DevOps
+- Python Automation
+
+---
+
+## 📈 GitHub Goals
+
+✔ Infrastructure as Code (IaC)
+
+✔ Cloud Automation
+
+✔ DevSecOps
+
+✔ CI/CD Pipelines
+
+✔ Kubernetes Deployments
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn:https://www.linkedin.com/in/mrpandey-azure-devops/
+- Email: mrpandey93@gmail.com
+
+⭐ Thanks for visiting my profile!
