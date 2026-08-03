@@ -56,82 +56,104 @@ I'm an Azure DevOps Engineer with 12+ years of experience building and automatin
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30"/> Microsoft Azure
 
-•  Microsoft Entra ID, MFA, PIM, and RBAC
-•  Azure Landing Zone, Management Groups, Azure Policy
-•  VNet, NSG, Load Balancer, Application Gateway, Bastion, VPN Gateway
-•  Private Endpoints & Private DNS
-•  VM, VMSS, Storage Accounts, Managed Identity, Availability Zones
+-  Microsoft Entra ID, MFA, PIM, and RBAC
+-  Azure Landing Zone, Management Groups, Azure Policy
+-  VNet, NSG, Load Balancer, Application Gateway, Bastion, VPN Gateway
+-  Private Endpoints & Private DNS
+-  VM, VMSS, Storage Accounts, Managed Identity, Availability Zones
 
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="30"/> Terraform (Infrastructure as Code)
 
-• 🏗️ Building reusable, modular Terraform configurations for repeatable deployments
-• 🗂️ Managing Terraform Workspaces and Remote State Backends with state locking
-• ⚙️ Writing lifecycle rules and variables to support multi-environment provisioning
-• 🚀 Automating Azure Landing Zone components through Infrastructure as Code
+- 🏗️ Building reusable, modular Terraform configurations for repeatable deployments
+- 🗂️ Managing Terraform Workspaces and Remote State Backends with state locking
+- ⚙️ Writing lifecycle rules and variables to support multi-environment provisioning
+- 🚀 Automating Azure Landing Zone components through Infrastructure as Code
 
 
 ## <img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/> CI/CD & Automation
 
-• 🚀 Designing **YAML-based CI/CD pipelines** using Azure DevOps and GitHub Actions
-• ⚙️ Automating infrastructure provisioning and application deployments across multiple environments
-• 🔄 Managing release workflows with rollback strategies and deployment approvals
-• 🧪 Implementing Continuous Integration (CI) and Continuous Deployment (CD) best practices
-• 🔐 Integrating security, quality checks, and automated testing into CI/CD pipelines
-• 📦 Deploying Infrastructure as Code (Terraform) through automated pipelines
+- 🚀 Designing **YAML-based CI/CD pipelines** using Azure DevOps and GitHub Actions
+- ⚙️ Automating infrastructure provisioning and application deployments across multiple environments
+- 🔄 Managing release workflows with rollback strategies and deployment approvals
+- 🧪 Implementing Continuous Integration (CI) and Continuous Deployment (CD) best practices
+- 🔐 Integrating security, quality checks, and automated testing into CI/CD pipelines
+- 📦 Deploying Infrastructure as Code (Terraform) through automated pipelines
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="28"/> Containers & Kubernetes
 
-•  🐳 Docker Containerization
-• ☸️ Azure Kubernetes Service (AKS)
-• 📦 Deployments, Services, ConfigMaps, Secrets &  Ingress
-• 🔄 Rolling Updates & Zero-Downtime Deployments
-•  📈 Autoscaling & High Availability
-• 🔍 Kubernetes Monitoring & Troubleshooting
+-  🐳 Docker Containerization
+- ☸️ Azure Kubernetes Service (AKS)
+- 📦 Deployments, Services, ConfigMaps, Secrets &  Ingress
+- 🔄 Rolling Updates & Zero-Downtime Deployments
+-  📈 Autoscaling & High Availability
+- 🔍 Kubernetes Monitoring & Troubleshooting
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="28"/> 🛡️ DevSecOps, Security & Governance
 
-• 🔒 IaC Security – Checkov, tfsec & TFLint
-• 🛡️ Secret Detection – TruffleHog
-•  💰 Cost Analysis – Infracost
-• 🔑 Azure Key Vault Integration
-•  🏷️ Resource Locks, Tagging & Cost Governance
-• 📋 Azure Policy, RBAC & Microsoft Entra ID
+- 🔒 IaC Security – Checkov, tfsec & TFLint
+- 🛡️ Secret Detection – TruffleHog
+-  💰 Cost Analysis – Infracost
+- 🔑 Azure Key Vault Integration
+-  🏷️ Resource Locks, Tagging & Cost Governance
+- 📋 Azure Policy, RBAC & Microsoft Entra ID
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="28"/> 📊 Monitoring & Observability
 
-• 📈 Azure Monitor & Log Analytics Workspace
-• 🚨 Azure Alerts & Diagnostic Settings
-• 🔍 Application Insights Monitoring
-• 📊 Metrics, Activity Logs & Resource Health
-• 📋 Azure Monitor Workbooks & Dashboards
-• ⚡ Proactive Monitoring & Performance Optimization
+- 📈 Azure Monitor & Log Analytics Workspace
+- 🚨 Azure Alerts & Diagnostic Settings
+- 🔍 Application Insights Monitoring
+- 📊 Metrics, Activity Logs & Resource Health
+- 📋 Azure Monitor Workbooks & Dashboards
+- ⚡ Proactive Monitoring & Performance Optimization
 
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/> <img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28"/> Version Control & Scripting
 
-• 🌿 Git, GitHub & Azure Repos
-• 🔀 Branching Strategy, Pull Requests & Code Reviews
-• 💻 PowerShell, Bash & Linux Automation
-• ⚙️ Git Versioning & Repository Management
-• 🚀 VS Code for Infrastructure as Code (IaC) Development
+- 🌿 Git, GitHub & Azure Repos
+- 🔀 Branching Strategy, Pull Requests & Code Reviews
+- 💻 PowerShell, Bash & Linux Automation
+- ⚙️ Git Versioning & Repository Management
+- 🚀 VS Code for Infrastructure as Code (IaC) Development
 
 ## ⚡ Azure DevSecOps CI/CD Pipeline
 
-```mermaid
-flowchart LR
-    A["💻 Code Commit"] --> B["🌿 GitHub"]
-    B --> C["⚙️ Azure Pipelines"]
-    C --> D["🛡️ Checkov / tfsec / TFLint"]
-    D --> E["🏗️ Terraform Plan"]
-    E --> F{"✅ Approval"}
-    F -->|Yes| G["🚀 Terraform Apply"]
-    G --> H["🐳 Docker Build"]
-    H --> I["📦 Push to ACR"]
-    I --> J["☸️ Deploy to AKS"]
-    J --> K["📊 Azure Monitor"]
-    K --> L["🚨 Alerts & Log Analytics"]
-```
+        👨‍💻 Developer
+             │
+             ▼
+      🐙 GitHub Repository
+             │
+             ▼
+   🔄 Pull Request / Merge
+             │
+             ▼
+ ⚙️ GitHub Actions / Azure DevOps
+             │
+      ┌──────┴────────┐
+      │               │
+      ▼               ▼
+ 🧪 Code Quality   🔐 Security Scan
+   (Lint/Test)   (Checkov • tfsec • TruffleHog)
+      │               │
+      └──────┬────────┘
+             ▼
+      🏗 Terraform Plan
+             │
+             ▼
+     ✅ Manual Approval
+             │
+             ▼
+      🚀 Terraform Apply
+             │
+             ▼
+      ☁ Microsoft Azure
+             │
+      ┌──────┴──────────────┐
+      ▼                     ▼
+ 🌐 Azure Infrastructure   ☸ AKS Cluster
+             │
+             ▼
+ 📊 Azure Monitor & Log Analytics
 
 ## 🚀 Currently Exploring
 
