@@ -27,13 +27,13 @@
 
 I'm an Azure DevOps Engineer with 12+ years of experience building and automating cloud infrastructure on Microsoft Azure. My work sits at the intersection of infrastructure, automation, and security — provisioning environments with Terraform, shipping them through CI/CD, and running workloads on Kubernetes without losing sight of governance and cost.
 
-• 🔭 Currently working on Azure infrastructure automation using 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 and 𝗔𝘇𝘂𝗿𝗲 𝗟𝗮𝗻𝗱𝗶𝗻𝗴 𝗭𝗼𝗻𝗲 patterns
-• ⚙️ Building and maintaining 𝗖𝗜/𝗖𝗗 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 with GitHub Actions and Azure DevOps
-• ☸️ Deploying and operating containerized workloads on 𝗔𝘇𝘂𝗿𝗲 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 (𝗔𝗞𝗦)
-• 🔐 Embedding 𝗗𝗲𝘃𝗦𝗲𝗰𝗢𝗽𝘀 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 into pipelines — policy checks, secret scanning, and IaC validation
-• 📚 Currently learning 𝗔𝗪𝗦, 𝗔𝗜𝗢𝗽𝘀, 𝗮𝗻𝗱 𝗵𝗼𝘄 𝗟𝗟𝗠𝘀 are being applied to cloud operations
-• 🎯 Focused on creating reliable cloud infrastructure through automation, security, and best practices.
-• 💬 Always excited to collaborate on Azure, DevSecOps, Terraform, GitHub Actions, and Kubernetes.
+- 🔭 Currently working on Azure infrastructure automation using **Terraform** and **Azure Landing Zone** patterns.
+- ⚙️ Building and maintaining **CI/CD pipelines** with **GitHub Actions** and **Azure DevOps**.
+- ☸️ Deploying and operating containerized workloads on **Azure Kubernetes Service (AKS)**.
+- 🔐 Embedding **DevSecOps** practices into pipelines — policy checks, secret scanning, and IaC validation.
+- 📚 Currently learning **AWS, AIOps, and how LLMs are being applied to cloud operations**.
+- 🎯 Focused on creating **secure, scalable, and automated cloud infrastructure** through automation, security, and best practices.
+- 💬 Always excited to collaborate on **Azure, DevSecOps, Terraform, GitHub Actions, Kubernetes, and Cloud Automation**.
 
 ## 💼 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
 
