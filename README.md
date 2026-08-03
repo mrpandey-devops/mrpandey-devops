@@ -118,42 +118,47 @@ I'm an Azure DevOps Engineer with 12+ years of experience building and automatin
 
 ## ⚡ Azure DevSecOps CI/CD Pipeline
 
-        👨‍💻 Developer
-             │
-             ▼
-      🐙 GitHub Repository
-             │
-             ▼
-   🔄 Pull Request / Merge
-             │
-             ▼
- ⚙️ GitHub Actions / Azure DevOps
-             │
-      ┌──────┴────────┐
-      │               │
-      ▼               ▼
- 🧪 Code Quality   🔐 Security Scan
-   (Lint/Test)   (Checkov • tfsec • TruffleHog)
-      │               │
-      └──────┬────────┘
-             ▼
-      🏗 Terraform Plan
-             │
-             ▼
-     ✅ Manual Approval
-             │
-             ▼
-      🚀 Terraform Apply
-             │
-             ▼
-      ☁ Microsoft Azure
-             │
-      ┌──────┴──────────────┐
-      ▼                     ▼
- 🌐 Azure Infrastructure   ☸ AKS Cluster
-             │
-             ▼
- 📊 Azure Monitor & Log Analytics
+   <details>
+<summary><b>🚀 CI/CD Workflow I Typically Build (Click to Expand)</b></summary>
+
+<br>
+
+```text
+👨‍💻 Developer
+      │
+      ▼
+🐙 GitHub Repository
+      │
+      ▼
+🔄 Pull Request / Merge
+      │
+      ▼
+⚙️ GitHub Actions / Azure DevOps
+      │
+      ▼
+🧪 Code Quality & Security Scan
+(Checkov • tfsec • TruffleHog)
+      │
+      ▼
+🏗 Terraform Plan
+      │
+      ▼
+✅ Manual Approval
+      │
+      ▼
+🚀 Terraform Apply
+      │
+      ▼
+☁ Microsoft Azure
+      │
+      ▼
+☸ Azure Kubernetes Service (AKS)
+      │
+      ▼
+📊 Azure Monitor & Log Analytics
+```
+
+</details>
 
 ## 🚀 Currently Exploring
 
