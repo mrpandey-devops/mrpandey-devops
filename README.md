@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;DevSecOps+Engineer;Terraform+%7C+Azure+%7C+AKS;CI%2FCD+%7C+Docker+%7C+Kubernetes;Automation+%7C+Cloud+%7C+Infrastructure+as+Code" />
 </p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrpandey-devops&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpandey-devops&theme=tokyonight"/>
-</p>
 
 🙋‍♂️ About Me
 I'm Madhup Ranjan Pandey
@@ -42,11 +38,11 @@ I'm an 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐃𝐞𝐯𝐒𝐞𝐜�
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30"/> Microsoft Azure
 
-•  🔐 Microsoft Entra ID, MFA, PIM, and RBAC
-• 🏗️ Azure Landing Zone, Management Groups, Azure Policy
-• 🌐 VNet, NSG, Load Balancer, Application Gateway, Bastion, VPN Gateway
-• 🔒 Private Endpoints & Private DNS
-• 💻 VM, VMSS, Storage Accounts, Managed Identity, Availability Zones
+•  Microsoft Entra ID, MFA, PIM, and RBAC
+•  Azure Landing Zone, Management Groups, Azure Policy
+•  VNet, NSG, Load Balancer, Application Gateway, Bastion, VPN Gateway
+•  Private Endpoints & Private DNS
+•  VM, VMSS, Storage Accounts, Managed Identity, Availability Zones
 
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="30"/> Terraform (Infrastructure as Code)
