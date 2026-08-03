@@ -176,7 +176,7 @@ I'm an Azure DevOps Engineer with 12+ years of experience building and automatin
     <img src="https://img.shields.io/badge/LinkedIn-Madhup%20Ranjan%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/mrpandey93-create" target="_blank">
+  <a href="https://github.com/mrpandey-devops" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mrpandey93--create-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
