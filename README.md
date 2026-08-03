@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Madhup Ranjan Pandey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;DevSecOps+Engineer;Terraform+%7C+Azure+%7C+AKS;CI%2FCD+%7C+Docker+%7C+Kubernetes;Automation+%7C+Cloud+%7C+Infrastructure+as+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;DevSecOps+Engineer;/>
 </p>
 
 🙋‍♂️ About Me
