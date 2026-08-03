@@ -1,4 +1,28 @@
 
+
+<h1 align="center">Hi 👋, I'm Madhup Ranjan Pandey</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Azure+DevOps+Engineer;DevSecOps+Engineer;Terraform+%7C+Azure+%7C+AKS;CI%2FCD+%7C+Docker+%7C+Kubernetes;Automation+%7C+Cloud+Engineer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrpandey-devops?tab=followers">
+    <img src="https://img.shields.io/github/followers/mrpandey-devops?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mrpandey-azure-devops/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:pandeymr330@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=mrpandey-devops&label=Profile+Views&style=for-the-badge&color=blue"/>
+</p>
 <h1 align="center">Hi 👋, I'm Madhup Ranjan Pandey</h1>
 
 <p align="center">
