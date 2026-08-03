@@ -21,9 +21,11 @@
 
   <img src="https://komarev.com/ghpvc/?username=mrpandey-devops&label=Profile+Views&style=for-the-badge&color=blue"/>
 </p>
+
 🙋‍♂️ About Me
-I'm Madhup Ranjan Pandey
-I'm an 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐃𝐞𝐯𝐒𝐞𝐜𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with 𝟭𝟮+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in cloud infrastructure, automation, and platform engineering. I specialize in Microsoft Azure, Terraform, Azure DevOps, GitHub Actions, Docker, Kubernetes, Linux, and CI/CD. My work focuses on designing secure, scalable, and automated cloud environments using Infrastructure as Code (IaC), implementing DevSecOps practices, and optimizing deployments for performance, governance, and cost efficiency. I'm passionate about continuous learning and building modern cloud-native solutions.
+
+
+I'm an Azure DevOps Engineer with 12+ years of experience building and automating cloud infrastructure on Microsoft Azure. My work sits at the intersection of infrastructure, automation, and security — provisioning environments with Terraform, shipping them through CI/CD, and running workloads on Kubernetes without losing sight of governance and cost.
 
 • 🔭 Currently working on Azure infrastructure automation using 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 and 𝗔𝘇𝘂𝗿𝗲 𝗟𝗮𝗻𝗱𝗶𝗻𝗴 𝗭𝗼𝗻𝗲 patterns
 • ⚙️ Building and maintaining 𝗖𝗜/𝗖𝗗 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 with GitHub Actions and Azure DevOps
