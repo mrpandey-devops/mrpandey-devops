@@ -186,7 +186,7 @@ I'm an Azure DevOps Engineer with 12+ years of experience building and automatin
 </p>
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mrpandey-azure-devops/
-- 💻 **GitHub:** https://github.com/mrpandey93-create
+- 💻 **GitHub:** https://github.com/mrpandey-devops
 - 📧 **Email:** pandeymr330@gmail.com
 - 🌐 **Portfolio:** Coming Soon 🚧
 
