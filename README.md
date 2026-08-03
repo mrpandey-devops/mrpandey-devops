@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;DevSecOps+Engineer;Terraform+%7C+Azure+%7C+AKS;CI%2FCD+%7C+Docker+%7C+Kubernetes;Automation+%7C+Cloud+%7C+Infrastructure+as+Code" />
 </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrpandey-devops&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpandey-devops&theme=tokyonight"/>
+</p>
+
 🙋‍♂️ About Me
 I'm Madhup Ranjan Pandey
 I'm an 𝐀𝐳𝐮𝐫𝐞 𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐃𝐞𝐯𝐒𝐞𝐜𝐎𝐩𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with 𝟭𝟮+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in cloud infrastructure, automation, and platform engineering. I specialize in Microsoft Azure, Terraform, Azure DevOps, GitHub Actions, Docker, Kubernetes, Linux, and CI/CD. My work focuses on designing secure, scalable, and automated cloud environments using Infrastructure as Code (IaC), implementing DevSecOps practices, and optimizing deployments for performance, governance, and cost efficiency. I'm passionate about continuous learning and building modern cloud-native solutions.
